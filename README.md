@@ -1,7 +1,7 @@
 # Free for developers
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-# [freefordevelopers.tech](http://freefordevelopers.tech/)
+# [Design Resources For Developers](https://dip15739.github.io/design-resources-for-developers/)
 
 Table of Contents
 =================
