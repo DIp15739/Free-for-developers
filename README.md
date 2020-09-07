@@ -2,11 +2,10 @@
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
-###### [Design Resources For Developers](https://dip15739.github.io/design-resources-for-developers/)
-
 Table of Contents
 =================
 
+   * [Design Resources For Developers](https://dip15739.github.io/design-resources-for-developers/) 
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
